@@ -1,5 +1,12 @@
 # Bug Bounty Wordlists Community
 
+## Free Starter Pack
+
+Prefer a small ready-to-download starter pack? Get the free Gumroad edition here:
+
+https://yosiismalov.gumroad.com/l/bug-bounty-wordlists-starter?utm_source=github&utm_medium=community_repo&utm_campaign=starter_pack
+
+
 Curated security testing wordlists for authorized bug bounty programs,
 penetration testing engagements, security labs, and defensive research.
 
