@@ -60,6 +60,7 @@ Run the following command to view current statistics:
 ```bash
 ./scripts/stats.sh
 ```
+
 ---
 
 # 🚀 Bug Bounty Wordlists Pro
@@ -79,3 +80,7 @@ The Pro edition includes:
 ## Get the Pro version
 
 👉 https://yosiismalov.gumroad.com/l/bug-bounty-wordlists-pro
+
+## More Security Research Tools
+
+Storefront: https://yosiismalov.gumroad.com/
