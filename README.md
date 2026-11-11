@@ -86,7 +86,7 @@ The Pro edition includes:
 
 ## Get the Pro version
 
-👉 https://yosiismalov.gumroad.com/?utm_source=github&utm_medium=community_repo&utm_campaign=storefrontl/bug-bounty-wordlists-pro?utm_source=github&utm_medium=community_repo&utm_campaign=wordlists_v2
+👉 https://yosiismalov.gumroad.com/l/bug-bounty-wordlists-pro?utm_source=github&utm_medium=community_repo&utm_campaign=wordlists_v2
 
 ## More Security Research Tools
 
